@@ -1,8 +1,10 @@
 Project Title
 =============
 
+
 Normal text <br>
 **bold text**
+*italic text*
 
 section
 ---
